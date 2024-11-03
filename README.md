@@ -17,4 +17,4 @@ All assets, such as images, are in the `src/assets` folder.
 
 Enjoy browsing through my portfolio!
 
-GitHub Link to my portfolio: https://github.com/himangi-2002/Portfolio-Website
+GitHub Link to my portfolio: https://github.com/himangi-2002/myportfolio
